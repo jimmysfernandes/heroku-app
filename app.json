@@ -1,0 +1,7 @@
+{
+  "name": "Start on Heroku: Node.js",
+  "description": "Application test using Node.js and Express",
+  "repository": "https://github.com/jimmysfernandes/heroku-app",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}

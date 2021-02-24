@@ -1,0 +1,25 @@
+{
+  "name": "heroku-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "author": "Jimmy Fernandes<jimmysfernandes@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimmysfernandes/heroku-app"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "http-status": "^1.5.0",
+    "morgan": "^1.10.0"
+  }
+}
